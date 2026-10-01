@@ -1,0 +1,27 @@
+.social .bi {
+    font-size: 2rem;
+}
+
+.video {
+    position: relative;
+    text-align: center;
+    
+}
+.overtext {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 60px;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    font-family: "Archivo Black", sans-serif;
+}
+.titolo{
+    font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
